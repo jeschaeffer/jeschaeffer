@@ -8,7 +8,7 @@
 - Cloud infrastructure and scalable applications
 
 ## 🌱 I'm currently learning
-- Advanced Next.js 14 features and Server Components
+- Advanced Next.js 15 features and Server Components
 - AI integration for script analysis and shot planning
 - Cloud infrastructure optimization
 - Performance optimization for creative applications
